@@ -15,5 +15,5 @@ More details at `Report.pdf`
 
 ## How-to-run
 ```
-    $ jupyter notebook lane-line-detection.ipynb
+    $ jupyter notebook lane-lines-detection.ipynb
 ```
