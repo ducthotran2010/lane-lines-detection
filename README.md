@@ -17,3 +17,4 @@ More details at `Report.pdf`
 ```
     $ jupyter notebook lane-lines-detection.ipynb
 ```
+or just take a look at `lane-lines-detection result.html`
