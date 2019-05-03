@@ -1,4 +1,4 @@
-# **Lane lines detection** 
+# **Lane Lines Detection** 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 This project help to detect lane lines in images using Python and OpenCV:
